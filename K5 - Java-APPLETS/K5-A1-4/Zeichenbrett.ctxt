@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=void\ paint(java.awt.Graphics)
+comment0.text=\r\n\ Die\ jeweiligen\ Bl\u00F6cke\ werden\ hier\ mithilfe\ 3\ ineinander\ liegenden\ "while"-Schleifen\ graphisch\r\n\ dargestellt.\ \r\n\t\r\n\ Dabei\ nutzen\ sie\ Variablen\ f\u00FCr\ die\ x-\ &\ y-Koordinate,\ als\ auch\ 3\ Z\u00E4hler-Variablen,\r\n\ um\ sich\ an\ den\ Reihen,\ Spalten\ und\ der\ Block-Anzahl\ zu\ orientieren.\r\n
+numComments=1
